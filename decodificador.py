@@ -1,14 +1,7 @@
 import unicodedata
 import os
 
-# ==============================
-#  Cifrado tipo sustitución simple
-#  Claves disponibles: MURCIÉLAGO, ABUELITO
-# ==============================
 
-# ==============================
-#  Claves disponibles
-# ==============================
 CLAVES = {
     "MURCIELAGO": {
         'M': '1', 'U': '2', 'R': '3', 'C': '4', 'I': '5',
